@@ -1,7 +1,9 @@
 # Berantakan Shell v1.3 (unofficial)
-Berantakan Shell v1.3 bypass waf auto delete / blank
-karena lama ga diupdate sama mas Zildan Z jadi gw updatein aja, ijin ya mas xixi 
-ga update besar-besar sih cuman benerin & rapin beberapa aja
+**Berantakan Shell v1.3 bypass waf auto delete / blank**
+
+
+karena lama ga diupdate sama mas Zildan Z jadi gw updatein aja, ijin ya mas Zildan xixi 
+ga update besar-besar sih cuman benerin & rapin beberapa aja dan ukuran shellnya 15kb,
 next pengennya mau gw tambahin command shell
 
 ### cara akses
