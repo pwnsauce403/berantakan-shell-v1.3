@@ -17,7 +17,7 @@ http://fckme.go.id/abc.php?pwn=sauce
 ### update-log
 - fix bug ga bisa upload, edit, delete folder
 - rapi in dikit
-- add login
+- add login shell
 
 ### versi lain
 - [Berantakan Shell v1](https://www.jawabaratcyber.com/2023/05/shell-bypass-403-semua-security.html)
