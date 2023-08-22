@@ -16,7 +16,7 @@ next pengennya mau gw tambahin command shell
 [link2shell]?pwn=sauce
 ```
 ```
-http://fckme.go.id/abc.php?pwn=sauce
+http://fckme.go.id/o.php?pwn=sauce
 ```
 
 
