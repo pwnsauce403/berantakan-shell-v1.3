@@ -1,5 +1,5 @@
-<p align="center"><b></b>Berantakan Shell v1.3 (unofficial)</b></p>
-**Berantakan Shell v1.3 bypass waf auto delete / blank**
+<p align="center"><b>Berantakan Shell v1.3 (unofficial)</b></p>
+<p align="center"><b>Berantakan Shell v1.3 bypass waf auto delete / blank</b></p>
 
 
 karena lama ga diupdate sama mas Zildan Z jadi gw updatein aja, ijin ya mas Zildan xixi 
