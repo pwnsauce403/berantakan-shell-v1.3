@@ -6,10 +6,10 @@ next pengennya mau gw tambahin command shell
 
 ### cara akses
 ```
-{link2shell}**?pwn=sauce**
+{link2shell}?pwn=sauce
 ```
 ```
-**http://fckme.go.id/abc.php?pwn=sauce**
+http://fckme.go.id/abc.php?pwn=sauce
 ```
 
 ### update-log
