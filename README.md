@@ -1,4 +1,4 @@
-# Berantakan Shell v1.3 (unofficial)
+<p align="center"># Berantakan Shell v1.3 (unofficial)</p>
 **Berantakan Shell v1.3 bypass waf auto delete / blank**
 
 
