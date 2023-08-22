@@ -1,10 +1,13 @@
 <p align="center"><b>Berantakan Shell v1.3 (unofficial)</b></p>
 <p align="center"><b>Berantakan Shell v1.3 bypass waf 403, auto delete, blank DLL</b></p>
-<h3>NO LOGGER!!</h3>
+
 
 karena lama ga diupdate sama mas Zildan Z jadi gw updatein aja, ijin ya mas Zildan xixi 
 ga update besar-besar sih cuman benerin sama rapin beberapa aja dan ukuran shellnya 15kb,
 next pengennya mau tambahin command shell itu juga kalo bisa masuk shellnya kalo kena waf berarti ga jadi :D
+
+### NO LOGGER!!
+![alt text](https://raw.githubusercontent.com/pwnsauce403/berantakan-shell-v1.3/main/no%20logger.png)
 
 
 ### preview
