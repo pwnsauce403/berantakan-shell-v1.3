@@ -9,5 +9,5 @@ next pengennya mau gw tambahin command shell
 - rapi in dikit
 
 ### versi lain
-[Berantakan Shell v1](https://www.jawabaratcyber.com/2023/05/shell-bypass-403-semua-security.html)
-[Berantakan Shell v.1.2](https://www.jawabaratcyber.com/2023/05/shell-bypass-403-berantakan-v12.html)
+- [Berantakan Shell v1](https://www.jawabaratcyber.com/2023/05/shell-bypass-403-semua-security.html)
+- [Berantakan Shell v.1.2](https://www.jawabaratcyber.com/2023/05/shell-bypass-403-berantakan-v12.html)
